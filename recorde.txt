@@ -2,3 +2,5 @@
   ssh-keygen -t rsa -C "yymike_2020@163.com"
  
 ≤‚ ‘£∫ ssh -T git@github.com
+
+git remote add github git@github.com:mikeStoneYao/git_learning.git
