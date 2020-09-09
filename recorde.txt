@@ -1,4 +1,5 @@
  git config --global user.email "yymike_2020@163.com"
+
  
 ssh-keygen -t rsa -C "yymike_2020@163.com"
  
@@ -9,3 +10,4 @@ git remote add github git@github.com:mikeStoneYao/git_learning.git
 git push github temp:master
 
 git pull github master:temp
+
